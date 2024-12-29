@@ -15,10 +15,10 @@
   },
   "dependencies": {
     "nuxt": "^3.12.2",
-    "shared": "workspace:*",
     "swiper": "^11.1.15"
   },
   "devDependencies": {
+    "@nuxtjs/tailwindcss": "^6.11.4",
     "sass": "^1.77.6"
   }
 }
