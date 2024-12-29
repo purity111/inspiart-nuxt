@@ -84,6 +84,7 @@
 .reason-list {
   padding-top: 60px;
   position: relative;
+  background-color: #F5F3F1;
 }
 
 .reason-list-title {

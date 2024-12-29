@@ -3,7 +3,7 @@
     <ItemsMenu />
     <div class="relative w-full">
       <img
-        class="w-full"
+        class="w-full h-[600px]"
         src="/img/reason12/MV.avif"
         alt="ファーストビュー"
         loading="lazy"
@@ -65,12 +65,16 @@
 
 .spec {
   margin-top: 10px;
-  width: 100%;
+  width: 375px;
+  height: 170px;
   padding: 0 5px 30px 5px;
 }
 
 .campaign {
-  width: 100%;
+  width: 375px;
+  height: 712px;
   box-shadow: 0 3px 6px #00000029;
+  position: relative;
+  z-index: 30;
 }
 </style>

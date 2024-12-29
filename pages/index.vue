@@ -80,7 +80,7 @@ onMounted(async () => {
 
 <template>
   <div>
-    <LazyTop />
+    <Top />
     <div ref="reasonTop">
       <LazyReasonReasonsTop v-if="showTop" />
     </div>
@@ -96,6 +96,7 @@ onMounted(async () => {
       color2="white"
       color3="white"
       id="reason1"
+      class="w-[375px] h-[652px]"
     />
     <div ref="reason1">
       <LazyReasonReason1 v-if="show1" />
@@ -111,7 +112,7 @@ onMounted(async () => {
       color1="#4E463D"
       color2="#4E463D"
       color3="#8E795D"
-      class="mt-[-85px]"
+      class="mt-[-85px] w-[375px] h-[649px]"
       id="reason2"
     />
     <div ref="reason2">
@@ -129,6 +130,7 @@ onMounted(async () => {
       color2="white"
       color3="#FFFFFF99"
       id="reason3"
+      class="h-[651px] w-[375px]"
     />
     <div ref="reason3">
       <LazyReasonReason3 v-if="show3" />
@@ -190,7 +192,7 @@ onMounted(async () => {
       <LazyReasonReason8 v-if="show8" />
     </div>
     <div ref="footer">
-      <LazySectionsFooterSection />
+      <LazySectionsFooterSection v-if="show8" />
     </div>
   </div>
 </template>
