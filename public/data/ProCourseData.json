@@ -1,0 +1,74 @@
+{
+  "bgColor": "white",
+  "baseColor1": "#E1CBC8",
+  "baseColor2": "#CBA8A4",
+  "baseColor3": "#8E795D",
+  "num": "01",
+  "cardBadge": "プロフェッショナルコース",
+  "title1": "Professional",
+  "title2": "Course",
+  "imgSrc": "/img/reason3/course-com.webp",
+  "badgeSrc": "/img/reason3/pink-badge.webp",
+  "courseDescription": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。",
+  "recommend1Up": "ミスコン応募が",
+  "recommend1Down": "決まっている方",
+  "recommend2Up": "本気でモデルを",
+  "recommend2Down": "目指している方",
+  "recommendImg1": "/img/reason3/pro-course-icon1.avif",
+  "recommendImg2": "/img/reason3/pro-course-icon2.avif",
+  "hissuTitle1": "モデルキャリアを築くための",
+  "hissuTitle2": "10の必須講座",
+  "hissuCaption": "Curriculum",
+  "showNum": 3,
+  "session": [
+    {
+      "sessionNum": "01",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介1",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "02",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介2",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "03",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介3",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "04",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介4",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "05",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介5",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "06",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介6",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    },
+    {
+      "sessionNum": "07",
+      "imgSrc": "/img/reason3/course-com.webp",
+      "sessionTitle": "コース紹介7",
+      "sessionItems": ["項目1", "項目2", "項目3", "項目4"],
+      "point": "ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。ダミーテキスト。"
+    }
+  ]
+}

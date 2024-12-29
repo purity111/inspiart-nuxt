@@ -1,0 +1,170 @@
+*,
+body,
+html {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+}
+
+body,
+html {
+  overflow-x: hidden;
+}
+
+body {
+  color: #4e463d;
+  margin: auto;
+  font-family: "Hiragino Kaku Gothic StdN W8", sans-serif;
+  max-width: 375px;
+  line-height: 1.8;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
+
+@font-face {
+  font-family: "Satoshi-BoldItalic";
+  src: url("/fonts/Satoshi-BoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Satoshi-MediumItalic";
+  src: url("/fonts/Satoshi-MediumItalic.woff2") format("woff2");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Satoshi-Bold";
+  src: url("/fonts/Satoshi-Bold.woff2") format("woff2");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+.satoshi-bi {
+  font-family: "Satoshi-BoldItalic", sans-serif;
+}
+
+.satoshi-b {
+  font-family: "Satoshi-Bold", sans-serif;
+}
+
+.satoshi-mi {
+  font-family: "Satoshi-MediumItalic", sans-serif;
+}
+
+.satoshi {
+  font-family: "Satoshi", sans-serif;
+}
+
+@font-face {
+  font-family: "Hiragino Kaku Gothic StdN W8";
+  src: url("/fonts/Hiragino Kaku Gothic StdN W8.otf") format("otf");
+  font-weight: 400;
+  font-display: swap;
+}
+
+.hiragino-kaku {
+  font-family: "Hiragino Kaku Gothic StdN W8", sans-serif;
+}
+
+@font-face {
+  font-family: "Antro Vectra";
+  src: url("/fonts/Antro_Vectra.otf") format("otf");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Antro Vectra Bold";
+  src: url("/fonts/Antro_Vectra_Bolder.otf") format("otf");
+  font-weight: 700;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Gallient";
+  src: url("/fonts/Gallient") format("ttf");
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Hiragino Kaku Gothic Pro W6";
+  src: url("/fonts/Hiragino Kaku Gothic Pro W6.otf") format("otf");
+  font-weight: 400;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Apple Chancery";
+  src: url("/fonts/Apple Chancery.ttf") format("ttf");
+  font-weight: 400;
+  font-display: swap;
+}
+
+.hiragino-kaku-pro {
+  font-family: "Hiragino Kaku Gothic Pro W6", sans-serif;
+}
+
+.satoshi-title {
+  font-size: 68px;
+  -webkit-text-stroke: 1px #cdbfac;
+  color: #fcfbfb;
+  font-weight: 900;
+  line-height: 1;
+  padding-bottom: 7px;
+  font-family: "Satoshi-BoldItalic", sans-serif;
+}
+
+.reason-title {
+  font-size: 78px;
+  -webkit-text-stroke: 1px white;
+  font-weight: 900;
+  line-height: 1;
+  padding-bottom: 7px;
+  color: transparent;
+  font-family: "Satoshi-BoldItalic", sans-serif;
+}
+
+.satoshi-subTitle {
+  font-size: 26px;
+  -webkit-text-stroke: 1px #cdbfac;
+  color: #fcfbfb;
+  font-weight: 600;
+  line-height: 1;
+  padding-bottom: 5px;
+  font-family: "Satoshi-BoldItalic", sans-serif;
+}
+
+.custom-pagination {
+  position: absolute !important;
+  top: 0 !important;
+  display: flex!important;
+  justify-content: space-between;
+  z-index: 20;
+  width: 100%;
+}
+
+.custom-pagination .custom-bullet {
+  color: #8E795D;
+  font-size: 12px;
+  opacity: 1!important;
+  transition: opacity 0.3s ease;
+  display: block!important;
+  font-family: 'Satoshi BoldItalic', sans-serif;
+  line-height: 1;
+}
+
+.custom-pagination .custom-bullet:only-child {
+  display: block!important;
+}
+
+.custom-pagination .swiper-pagination-bullet-active {
+  background-color: green;
+}

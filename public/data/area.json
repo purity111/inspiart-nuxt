@@ -1,0 +1,70 @@
+[
+  {
+    "name": "東京",
+    "studios": [
+      { "name": "新宿", "access": "新宿駅西口から徒歩7分", "latitude": 35.6938, "longitude": 139.7034 },
+      { "name": "渋谷", "access": "渋谷駅東口から徒歩10分", "latitude": 35.6618, "longitude": 139.704 },
+      { "name": "池袋", "access": "池袋駅西口から徒歩3分", "latitude": 35.7299, "longitude": 139.7109 },
+      { "name": "吉祥寺", "access": "吉祥寺駅北口より徒歩3分", "latitude": 35.7025, "longitude": 139.5791 },
+      { "name": "立川", "access": "立川駅南口から徒歩4分", "latitude": 35.6975, "longitude": 139.4131 },
+      { "name": "上野", "access": "上野駅不忍口から徒歩3分", "latitude": 35.7107, "longitude": 139.7762 },
+      { "name": "町田", "access": "町田駅北口から徒歩3分", "latitude": 35.5459, "longitude": 139.4466 },
+      { "name": "高田馬場", "access": "高田馬場駅から徒歩3分", "latitude": 35.7127, "longitude": 139.7037 },
+      { "name": "蒲田", "access": "蒲田駅西口から徒歩1分", "latitude": 35.5601, "longitude": 139.7155 },
+      { "name": "下北沢", "access": "下北沢駅南口から徒歩2分", "latitude": 35.6618, "longitude": 139.6676 },
+      { "name": "三軒茶屋", "access": "三軒茶屋駅南口から徒歩1分", "latitude": 35.6434, "longitude": 139.6707 },
+      { "name": "赤坂", "access": "赤坂見附駅から徒歩1分", "latitude": 35.6763, "longitude": 139.736 },
+      { "name": "高円寺", "access": "高円寺駅南口から徒歩1分", "latitude": 35.7049, "longitude": 139.651 },
+      { "name": "錦糸町", "access": "錦糸町駅から徒歩1分", "latitude": 35.696, "longitude": 139.8142 },
+      { "name": "秋葉原", "access": "秋葉原駅から徒歩2分", "latitude": 35.6983, "longitude": 139.7725 },
+      { "name": "WeArt代官山", "access": "代官山駅から徒歩5分", "latitude": 35.6486, "longitude": 139.7024 },
+      { "name": "地球住所代官山", "access": "代官山駅から徒歩5分", "latitude": 35.6486, "longitude": 139.7024 },
+      { "name": "地球住所代官山", "access": "代官山駅から徒歩5分", "latitude": 35.6486, "longitude": 139.7024 },
+      { "name": "地球住所代官山", "access": "代官山駅から徒歩5分", "latitude": 35.6486, "longitude": 139.7024 }
+    ]
+  },
+  {
+    "name": "関東（東京以外）",
+    "studios": [
+      { "name": "スパークリングスタジオ大宮", "access": "", "latitude": 35.9065, "longitude": 139.623 },
+      { "name": "千葉", "access": "千葉駅表口から徒歩5分", "latitude": 35.6134, "longitude": 140.1164 },
+      { "name": "横浜", "access": "横浜駅東口から徒歩3分", "latitude": 35.4656, "longitude": 139.6222 },
+      { "name": "川崎", "access": "川崎駅中央東口から徒歩3分", "latitude": 35.531, "longitude": 139.6996 },
+      { "name": "川崎", "access": "川崎駅中央東口から徒歩3分", "latitude": 35.531, "longitude": 139.6996 },
+      { "name": "川崎 和太鼓", "access": "川崎駅東口から徒歩7分", "latitude": 35.531, "longitude": 139.6996 }
+    ]
+  },
+  {
+    "name": "中部",
+    "studios": [
+      { "name": "静岡", "access": "栄駅から徒歩1分", "latitude": 34.9757, "longitude": 138.383 },
+      { "name": "静岡", "access": "", "latitude": 34.9757, "longitude": 138.383 },
+      { "name": "静岡", "access": "栄駅から徒歩1分", "latitude": 34.9757, "longitude": 138.383 },
+      { "name": "静岡", "access": "", "latitude": 34.9757, "longitude": 138.383 },
+      { "name": "静岡", "access": "", "latitude": 34.9757, "longitude": 138.383 },
+      { "name": "栄", "access": "栄駅から徒歩1分", "latitude": 35.1707, "longitude": 136.9066 }
+    ]
+  },
+  {
+    "name": "関西",
+    "studios": [
+      { "name": "京都", "access": "四条駅、鳥丸駅から徒歩1分", "latitude": 35.0052, "longitude": 135.7655 },
+      { "name": "梅田ラウンジ", "access": "大阪駅から徒歩7分", "latitude": 34.7028, "longitude": 135.498 },
+      { "name": "京橋", "access": "京橋駅から徒歩3分", "latitude": 34.6949, "longitude": 135.5334 },
+      { "name": "京橋", "access": "京橋駅から徒歩3分", "latitude": 34.6949, "longitude": 135.5334 },
+      { "name": "なんば", "access": "なんば駅から徒歩5分", "latitude": 34.6637, "longitude": 135.5014 },
+      { "name": "三宮", "access": "元町駅から徒歩3分", "latitude": 34.6946, "longitude": 135.1955 }
+    ]
+  },
+  {
+    "name": "北海道・東北",
+    "studios": [
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 },
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 },
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 },
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 },
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 },
+      { "name": "札幌", "access": "札幌駅南口から徒歩4分", "latitude": 43.0618, "longitude": 141.3545 }
+    ]
+  }
+]

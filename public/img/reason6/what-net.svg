@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="315" height="200" viewBox="0 0 315 200">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_108858" data-name="Rectangle 108858" width="18" height="18" fill="#e1cbc8"/>
+    </clipPath>
+    <clipPath id="clip-path-3">
+      <rect id="Rectangle_108858-3" data-name="Rectangle 108858" width="18" height="18" fill="#c7d5e1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_196537" data-name="Group 196537" transform="translate(-30 -16863.152)">
+    <rect id="bg" width="315" height="200" rx="10" transform="translate(30 16863.152)" fill="#fcfbfb"/>
+    <path id="icon" d="M20,0A11.765,11.765,0,1,0,31.765,11.765,11.818,11.818,0,0,0,20,0m0,7.059,0,17.647c-10.961,0-20,8.686-20,19.485v1.691c.4.173,40.455-.226,40,0V44.191c0-10.8-9.039-19.485-20-19.485" transform="translate(281 16920.152)" fill="#c7d5e1"/>
+    <text id="あなた" transform="translate(74 16989.035)" fill="#4e463d" font-size="15" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-22.5" y="0">あなた</tspan></text>
+    <text id="ファンA" transform="translate(187 16989.035)" fill="#4e463d" font-size="15" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-27.645" y="0">ファンA</tspan></text>
+    <text id="ファンB" transform="translate(301 16989.035)" fill="#4e463d" font-size="15" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-27.817" y="0">ファンB</tspan></text>
+    <path id="Path_232048" data-name="Path 232048" d="M2700.668,15876.141a1.667,1.667,0,0,1-1.667-1.666v-23.334a1.665,1.665,0,0,1,1.667-1.666h10v6.666a1.667,1.667,0,0,0,1.667,1.667H2719v16.667a1.667,1.667,0,0,1-1.667,1.666Zm3.729-14.876a.835.835,0,0,0-.4.71v8.333a.833.833,0,0,0,1.207.745l8.333-4.167a.833.833,0,0,0,.336-1.183.823.823,0,0,0-.336-.307l-8.333-4.168a.835.835,0,0,0-.811.036Zm7.938-5.124v-6.666l6.667,6.666Z" transform="translate(-2580 1023.621)" fill="#c7d5e1"/>
+    <path id="Path_232049" data-name="Path 232049" d="M2700.668,15876.141a1.667,1.667,0,0,1-1.667-1.666v-23.334a1.665,1.665,0,0,1,1.667-1.666h10v6.666a1.667,1.667,0,0,0,1.667,1.667H2719v16.667a1.667,1.667,0,0,1-1.667,1.666Zm3.729-14.876a.835.835,0,0,0-.4.71v8.333a.833.833,0,0,0,1.207.745l8.333-4.167a.833.833,0,0,0,.336-1.183.823.823,0,0,0-.336-.307l-8.333-4.168a.835.835,0,0,0-.811.036Zm7.938-5.124v-6.666l6.667,6.666Z" transform="translate(-2460.001 1023.621)" fill="#c7d5e1"/>
+    <text id="販売" transform="translate(129.001 16913.762)" fill="#4e463d" font-size="12" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-12" y="0">販売</tspan></text>
+    <text id="転売" transform="translate(249.001 16913.762)" fill="#4e463d" font-size="12" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="-12" y="0">転売</tspan></text>
+    <path id="Path_232056" data-name="Path 232056" d="M2699,15864.477a15,15,0,1,1,15,15A15.017,15.017,0,0,1,2699,15864.477Zm2,0a13,13,0,1,0,13-13A13.014,13.014,0,0,0,2701,15864.477Zm2.619,0a10.381,10.381,0,1,1,10.381,10.381A10.393,10.393,0,0,1,2703.619,15864.477Zm6.746,3.819a.692.692,0,0,0,.715.714H2713v.762a1,1,0,1,0,2,0v-.762h1.936a.722.722,0,1,0,0-1.443H2715v-.809l.1-.158h1.841a.71.71,0,0,0,.73-.731.718.718,0,0,0-.73-.73H2716l2.222-3.587a2.091,2.091,0,0,0,.286-.873.971.971,0,0,0-1.857-.27l-2.635,4.444-2.73-4.57a.885.885,0,0,0-.809-.461.912.912,0,0,0-.984.937,1.191,1.191,0,0,0,.158.57l2.349,3.81h-.92a.706.706,0,0,0-.715.73.7.7,0,0,0,.715.731h1.824l.1.158v.809h-1.92A.7.7,0,0,0,2710.365,15868.3Z" transform="translate(-2585 1113.676)" fill="#e1cbc8" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <path id="Path_232057" data-name="Path 232057" d="M2699,15864.477a15,15,0,1,1,15,15A15.017,15.017,0,0,1,2699,15864.477Zm2,0a13,13,0,1,0,13-13A13.014,13.014,0,0,0,2701,15864.477Zm2.619,0a10.381,10.381,0,1,1,10.381,10.381A10.393,10.393,0,0,1,2703.619,15864.477Zm6.746,3.819a.692.692,0,0,0,.715.714H2713v.762a1,1,0,1,0,2,0v-.762h1.936a.722.722,0,1,0,0-1.443H2715v-.809l.1-.158h1.841a.71.71,0,0,0,.73-.731.718.718,0,0,0-.73-.73H2716l2.222-3.587a2.091,2.091,0,0,0,.286-.873.971.971,0,0,0-1.857-.27l-2.635,4.444-2.73-4.57a.885.885,0,0,0-.809-.461.912.912,0,0,0-.984.937,1.191,1.191,0,0,0,.158.57l2.349,3.81h-.92a.706.706,0,0,0-.715.73.7.7,0,0,0,.715.731h1.824l.1.158v.809h-1.92A.7.7,0,0,0,2710.365,15868.3Z" transform="translate(-2465 1113.676)" fill="#e1cbc8" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <path id="Path_232058" data-name="Path 232058" d="M2699,15864.477a15,15,0,1,1,15,15A15.017,15.017,0,0,1,2699,15864.477Zm2,0a13,13,0,1,0,13-13A13.014,13.014,0,0,0,2701,15864.477Zm2.619,0a10.381,10.381,0,1,1,10.381,10.381A10.393,10.393,0,0,1,2703.619,15864.477Zm6.746,3.819a.692.692,0,0,0,.715.714H2713v.762a1,1,0,1,0,2,0v-.762h1.936a.722.722,0,1,0,0-1.443H2715v-.809l.1-.158h1.841a.71.71,0,0,0,.73-.731.718.718,0,0,0-.73-.73H2716l2.222-3.587a2.091,2.091,0,0,0,.286-.873.971.971,0,0,0-1.857-.27l-2.635,4.444-2.73-4.57a.885.885,0,0,0-.809-.461.912.912,0,0,0-.984.937,1.191,1.191,0,0,0,.158.57l2.349,3.81h-.92a.706.706,0,0,0-.715.73.7.7,0,0,0,.715.731h1.824l.1.158v.809h-1.92A.7.7,0,0,0,2710.365,15868.3Z" transform="translate(-2613 1177.676)" fill="#e1cbc8" stroke="rgba(0,0,0,0)" stroke-width="1"/>
+    <text id="利益の一部があなたに還元_" data-name="利益の一部があなたに還元！" transform="translate(121 17047.152)" fill="#cba8a4" font-size="13" font-family="YuGothic-Bold, Yu Gothic" font-weight="700"><tspan x="0" y="0">利益の一部があなたに還元！</tspan></text>
+    <path id="icon-2" data-name="icon" d="M20,0A11.765,11.765,0,1,0,31.765,11.765,11.818,11.818,0,0,0,20,0m0,7.059,0,17.647c-10.961,0-20,8.686-20,19.485v1.691c.4.173,40.455-.226,40,0V44.191c0-10.8-9.039-19.485-20-19.485" transform="translate(167.498 16920.152)" fill="#c7d5e1"/>
+    <path id="icon-3" data-name="icon" d="M20,0A11.765,11.765,0,1,0,31.765,11.765,11.818,11.818,0,0,0,20,0m0,7.059,0,17.647c-10.961,0-20,8.686-20,19.485v1.691c.4.173,40.455-.226,40,0V44.191c0-10.8-9.039-19.485-20-19.485" transform="translate(53.996 16920.152)" fill="#e1cbc8"/>
+    <g id="Group_196532" data-name="Group 196532">
+      <g id="Group_196531" data-name="Group 196531" transform="translate(116.362 16944.391) rotate(88)">
+        <g id="Group_196062" data-name="Group 196062" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_377882" data-name="Path 377882" d="M9,18C9,14.063,3.938,3.938,0,0,3.938,3.938,14.063,3.938,18,0,14.063,3.938,9,14.063,9,18" transform="translate(0 0)" fill="#e1cbc8"/>
+        </g>
+      </g>
+      <path id="Path_378373" data-name="Path 378373" d="M1286-7275.315h41.321" transform="translate(-1171.322 24229.014)" fill="none" stroke="#e1cbc8" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 4"/>
+    </g>
+    <g id="Group_196533" data-name="Group 196533" transform="translate(120.628)">
+      <g id="Group_196531-2" data-name="Group 196531" transform="translate(116.362 16944.391) rotate(88)">
+        <g id="Group_196062-2" data-name="Group 196062" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_377882-2" data-name="Path 377882" d="M9,18C9,14.063,3.938,3.938,0,0,3.938,3.938,14.063,3.938,18,0,14.063,3.938,9,14.063,9,18" transform="translate(0 0)" fill="#e1cbc8"/>
+        </g>
+      </g>
+      <path id="Path_378373-2" data-name="Path 378373" d="M1286-7275.315h41.321" transform="translate(-1171.322 24229.014)" fill="none" stroke="#e1cbc8" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 4"/>
+    </g>
+    <g id="Group_196534" data-name="Group 196534">
+      <g id="Group_196531-3" data-name="Group 196531" transform="matrix(-0.035, 0.999, -0.999, -0.035, 276.627, 16923.02)">
+        <g id="Group_196062-3" data-name="Group 196062" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="Path_377882-3" data-name="Path 377882" d="M9,0C9,3.938,3.938,14.063,0,18c3.938-3.937,14.063-3.937,18,0C14.063,14.063,9,3.938,9,0" transform="translate(0 0)" fill="#c7d5e1"/>
+        </g>
+      </g>
+      <path id="Path_378373-3" data-name="Path 378373" d="M1327.321-7275.315H1286" transform="translate(-1067 24207.014)" fill="none" stroke="#c7d5e1" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 4"/>
+    </g>
+    <g id="Group_196535" data-name="Group 196535" transform="translate(-119)">
+      <g id="Group_196531-4" data-name="Group 196531" transform="matrix(-0.035, 0.999, -0.999, -0.035, 276.627, 16923.02)">
+        <g id="Group_196062-4" data-name="Group 196062" transform="translate(0 0)" clip-path="url(#clip-path-3)">
+          <path id="Path_377882-4" data-name="Path 377882" d="M9,0C9,3.938,3.938,14.063,0,18c3.938-3.937,14.063-3.937,18,0C14.063,14.063,9,3.938,9,0" transform="translate(0 0)" fill="#c7d5e1"/>
+        </g>
+      </g>
+      <path id="Path_378373-4" data-name="Path 378373" d="M1327.321-7275.315H1286" transform="translate(-1067 24207.014)" fill="none" stroke="#c7d5e1" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 4"/>
+    </g>
+    <path id="Path_378374" data-name="Path 378374" d="M1286-7287.125v11.811h227.9v-19.244" transform="translate(-1211.5 24295.256)" fill="none" stroke="#e1cbc8" stroke-linecap="round" stroke-width="3" stroke-dasharray="0 4"/>
+    <g id="Group_196536" data-name="Group 196536" transform="translate(83.5 17014.035) rotate(-180)">
+      <g id="Group_196062-5" data-name="Group 196062" transform="translate(0 0)" clip-path="url(#clip-path)">
+        <path id="Path_377882-5" data-name="Path 377882" d="M9,18C9,14.063,3.938,3.938,0,0,3.938,3.938,14.063,3.938,18,0,14.063,3.938,9,14.063,9,18" transform="translate(0 0)" fill="#e1cbc8"/>
+      </g>
+    </g>
+  </g>
+</svg>

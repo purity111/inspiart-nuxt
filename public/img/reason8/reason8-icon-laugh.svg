@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="34" height="34" viewBox="0 0 34 34">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_108895" data-name="Rectangle 108895" width="18.627" height="5.13" fill="none" stroke="#8d795b" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Group_196317" data-name="Group 196317" transform="translate(-60 -25925)">
+    <g id="Group_196122" data-name="Group 196122" transform="translate(0 -3)">
+      <g id="Ellipse_68" data-name="Ellipse 68" transform="translate(60 25928)" fill="none" stroke="#8e7a5c" stroke-width="1">
+        <circle cx="17" cy="17" r="17" stroke="none"/>
+        <circle cx="17" cy="17" r="16.5" fill="none"/>
+      </g>
+      <g id="Group_196121" data-name="Group 196121" transform="translate(-2 1)">
+        <g id="Ellipse_556" data-name="Ellipse 556" transform="translate(73 25939)" fill="#8e7a5c" stroke="#8e7a5c" stroke-width="1">
+          <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+          <circle cx="1.5" cy="1.5" r="1" fill="none"/>
+        </g>
+        <g id="Ellipse_557" data-name="Ellipse 557" transform="translate(83 25939)" fill="#8e7a5c" stroke="#8e7a5c" stroke-width="1">
+          <circle cx="1.5" cy="1.5" r="1.5" stroke="none"/>
+          <circle cx="1.5" cy="1.5" r="1" fill="none"/>
+        </g>
+      </g>
+      <g id="Group_196120" data-name="Group 196120" transform="translate(68 25948)">
+        <g id="Group_196119" data-name="Group 196119" transform="translate(0 0)" clip-path="url(#clip-path)">
+          <path id="Path_377945" data-name="Path 377945" d="M.5,4.388a11.661,11.661,0,0,1,17.386,0" transform="translate(0.121 0.121)" fill="none" stroke="#8d795b" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

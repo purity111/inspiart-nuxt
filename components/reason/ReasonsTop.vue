@@ -1,0 +1,37 @@
+<template>
+  <div>
+    <ItemsReasonList />
+    <ItemsImgTextCard
+      :imgSrc="'/img/reason12/reason4-sm.webp'"
+      :num="'04'"
+      :str="'カリスマモデルも<br>講師として登壇するから'"
+      :target="'reason4'"
+      class="mt-[-120px] relative z-50"
+    />
+    <ItemsTextImgCard
+      :imgSrc="'/img/reason12/reason5-sm.webp'"
+      :num="'05'"
+      :str="'チャンスをたぐり<br>寄せるサポートが<br>あるから'"
+      :target="'reason5'"
+    />
+    <ItemsImgTextCard
+      :imgSrc="'/img/reason12/reason6-sm.webp'"
+      :num="'06'"
+      :str="'在学中からインフル<br>エンサーとして活躍<br>できるから'"
+      :target="'reason6'"
+    />
+    <ItemsTextImgCard
+      :imgSrc="'/img/reason12/reason7-sm.webp'"
+      :num="'07'"
+      :str="'在学中からお仕事が<br>たくさんあるから'"
+      :target="'reason7'"
+    />
+    <ItemsImgTextCard
+      :imgSrc="'/img/reason12/reason8-sm.webp'"
+      :num="'08'"
+      :str="'受講できる拠点が<br>たくさんあるから'"
+      :target="'reason8'"
+      class="pb-[60px]"
+    />
+  </div>
+</template>

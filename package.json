@@ -1,0 +1,24 @@
+{
+  "name": "inspiart-z.com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare",
+    "deploy-dev": "npm run deploy-dev:generate; npm run deploy-dev:sync; npm run deploy-dev:invalidate",
+    "deploy-dev:generate": "nuxt generate --dotenv .env.development",
+    "deploy-dev:sync": "aws s3 sync --delete .output/public/ s3://inspiart-z-dev.com/",
+    "deploy-dev:invalidate": "AWS_PAGER= aws cloudfront create-invalidation --distribution-id E1AU825BC74H8I --paths \"/*\""
+  },
+  "dependencies": {
+    "nuxt": "^3.12.2",
+    "shared": "workspace:*",
+    "swiper": "^11.1.15"
+  },
+  "devDependencies": {
+    "sass": "^1.77.6"
+  }
+}
