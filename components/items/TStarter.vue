@@ -60,7 +60,7 @@ defineProps<{
       <p class="text-[#8E795D] opacity-60">Actual curriculum</p>
     </div>
     <img
-      src="/img/common/ribbon.webp"
+      src="/img/common/Ribbon.webp"
       alt="リボン"
       width="375"
       height="66"
